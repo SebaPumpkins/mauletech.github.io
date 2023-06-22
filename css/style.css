@@ -29,17 +29,17 @@
 **********************************************************************/
  body {
     font-family:'Roboto', sans-serif;
-    color: #1a90fe;
+    color: #00519d;
     line-height:1.2em;
     font-size:17px;
     line-height:20px;
 }
 a {
-    color:#181A1C;
+    color:#00519d;
     text-decoration: none;
 }
 a:hover {
-    color: #1a90fe;
+    color: #00519d;
     text-decoration:none;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -54,7 +54,7 @@ p {
     color: #0e0e0e;;
 }
 .navbar {
-    background: #181A1C;
+    background: #00519d;
     margin-bottom:0;
     min-height:70px;
 }
@@ -65,7 +65,7 @@ p {
     padding-top:0;
 }
 .navbar-inner {
-    background: #181A1C;
+    background: #00519d;
     border-radius:0;
     filter: none;
     border: none;
@@ -82,7 +82,7 @@ p {
     margin:10px 3px;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
-    border: 1px solid #181A1C;
+    border: 1px solid #00519d;
     box-shadow: none;
     font-size:15px;
     text-shadow: none;
@@ -90,9 +90,9 @@ p {
     transition: border-color 1s ease;
 }
 .navbar .nav > li:hover> a, .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
-    border: 1px solid #1a90fe;
+    border: 1px solid #00519d;
     color: #fff;
-    background-color: #181A1C;
+    background-color: #00519d;
     transition: border-color 1s ease;
 }
 .nav-pills {
@@ -106,15 +106,15 @@ p {
     margin-right:5px;
     padding-left:25px;
     padding-right:25px;
-    border: 1px solid #181A1C;
+    border: 1px solid #00519d;
 }
 .nav-pills > li > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover, .nav-pills > .active > a:focus {
-    background: #181A1C;
+    background: #00519d;
     color: #fff;
 }
 .navbar .btn-navbar:hover, .navbar .btn-navbar {
     border-radius:0;
-    background:#1a90fe;
+    background:#00519d;
     color: #000;
 }
 /******
@@ -142,12 +142,12 @@ p {
 .large-text {
     line-height:1.2em;
     font-size: 30px;
-    color: #181A1C;
+    color: #00519d;
     padding:20px;
     margin-bottom:20px;
 }
 .highlighted-box h1, .highlighted-box p {
-    color: #181A1C !important;
+    color: #00519d !important;
 }
 .circle-border {
     display: inline-block;
@@ -176,7 +176,7 @@ p {
     text-align:center;
     width: 0;
     height: 0;
-    border-top: 30px solid #181A1C;
+    border-top: 30px solid #00519d;
     border-left: 585px outset transparent;
     border-right: 585px outset transparent;
     position: relative;
@@ -206,34 +206,34 @@ p {
 **********/
  .button,  .button:visited, .button:focus {
     display:inline-block;
-    border:1px solid #181A1C;
-    color:#181A1C;
+    border:1px solid #00519d;
+    color:#00519d;
     background-color:transparent;
     padding:15px 30px;
     font-size:17px;
     line-height:auto;
 }
 .button:hover, .button:active{
-    background-color:#181A1C;
+    background-color:#00519d;
     color:#fff;
 }
 .button-sp, .button-sp:visited, .button-sp:focus {
     border:none;
-    background-color:#1a90fe;
-    color:#181A1C;
+    background-color:#00519d;
+    color:#00519d;
 }
 .button-sp:hover, .button-sp:active {
-    background-color:#181A1C;
-    color:#1a90fe;
+    background-color:#00519d;
+    color:#00519d;
 }
 .button-ps, .button-ps:visited, .button-ps:focus {
     border:none;
-    background-color:#181A1C;
-    color:#1a90fe;
+    background-color:#00519d;
+    color:#00519d;
 }
 .button-ps:hover, .button-ps:active {
-    background-color:#1a90fe;
-    color:#181A1C;
+    background-color:#00519d;
+    color:#00519d;
 }
 /*
 2.3 Thumbnails - Predefined bootstrap's thumbnail class.
@@ -283,7 +283,7 @@ p {
     z-index:4;
 }
 .thumbnail h3 {
-    color: #1a90fe;
+    color: #00519d;
     margin-top:10px;
     font-size:20px;
 }
@@ -297,7 +297,7 @@ p {
     left:0;
     width:100%;
     height:100%;
-    background:#181A1C;
+    background:#00519d;
     position:absolute;
     -webkit-transition: all 0.2s ease-out;
     -moz-transition: all 0.2s ease-out;
@@ -329,10 +329,10 @@ p {
     padding:0;
     width:32px;
     height:32px;
-    color: #1a90fe;
+    color: #00519d;
 }
 .social li a:hover {
-    color:#181A1C;
+    color:#00519d;
 }
 /*
 3. Sections
@@ -362,7 +362,7 @@ p {
     background:#F2F2F2;
 }
 .primary-section .triangle {
-    border-top: 40px solid #1a90fe;
+    border-top: 40px solid #00519d;
 }
 .primary-section .title {
     border-bottom: 1px solid #FFF;
@@ -377,7 +377,7 @@ p {
     background:#fff;
 }
 .secondary-section .title {
-    border-bottom: 1px solid #181A1C;
+    border-bottom: 1px solid #00519d;
 }
 .secondary-section h1, .secondary-section .title p {
     color: #0e0e0e;
@@ -385,8 +385,8 @@ p {
 /* Third section use bacground image */
 .third-section {
     padding-bottom: 70px;
-    background: #181A1C url(../images/brand-bg.png) no-repeat center;
-    border-top:6px solid #1a90fe;
+    background: #00519d url(../images/brand-bg.png) no-repeat center;
+    border-top:6px solid #00519d;
 }
 .third-section .container {
     padding-top:20px;
@@ -394,7 +394,7 @@ p {
 }
 .third-section .title {
     border-bottom: 1px solid #A1AAB7;
-    color: #1a90fe;
+    color: #00519d;
 }
 .sub-section {
     margin-top:30px;
@@ -424,7 +424,7 @@ p {
 ***************************************/
  .single-project {
     margin-bottom:30px;
-    background:#181A1C;
+    background:#00519d;
 }
 .single-project img {
     width:100%;
@@ -438,7 +438,7 @@ p {
 .project-title {
     margin-top:15px;
     margin-bottom:15px;
-    border-bottom:1px solid #1a90fe;
+    border-bottom:1px solid #00519d;
 }
 .project-title h3 {
     float:left;
@@ -447,11 +447,11 @@ p {
     width:80%;
 }
 .project-title .close {
-    color: #1a90fe;
+    color: #00519d;
     margin-top:10px;
 }
 .project-info span, .project-title h3 {
-    color:#1a90fe;
+    color:#00519d;
 }
 .project-info {
     font-weight:100;
@@ -491,7 +491,7 @@ p {
     color:#fff;
 }
 .team .thumbnail .mask {
-    background: #1a90fe;
+    background: #00519d;
 }
 .team .thumbnail .mask h2 {
     margin-top:20%;
@@ -527,12 +527,12 @@ p {
     margin:0;
     left: 10px;
     z-index: 1;
-    color: #181A1C;
+    color: #00519d;
 }
 .skills li .bar {
     height:40px;
     position:absolute;
-    background-color: #1a90fe;
+    background-color: #00519d;
 }
 /*
 3.4 Clients
@@ -541,7 +541,7 @@ p {
     border:1px solid white;
 }
 .client-slider img:hover {
-    background-color:#1a90fe;
+    background-color:#00519d;
 }
 .client-nav {
     list-style:none;
@@ -555,24 +555,24 @@ p {
 .client-nav li a {
     display:inherit;
     padding:5px;
-    background:#1a90fe;
+    background:#00519d;
     border-radius:3px;
     width:20px;
     height:20px;
 }
 .client-nav li a:hover {
-    background:#181A1C;
+    background:#00519d;
 }
 .testimonial p {
-    color:#181A1C;
-    background:#1a90fe;
+    color:#00519d;
+    background:#00519d;
     padding:15px;
     margin:0;
 }
 .testimonial .arrow {
     margin-left:10px;
     width:0;
-    border-top:10px solid #1a90fe;
+    border-top:10px solid #00519d;
     border-left: 20px outset transparent;
     border-right: 20px outset transparent;
 }
@@ -621,10 +621,10 @@ p {
     text-align:center;
 }
 .price-column h3 {
-    background-color:#181A1C;
+    background-color:#00519d;
     text-transform:uppercase;
     text-align: center;
-    color:#1a90fe;
+    color:#00519d;
     padding:40px 0px;
     font-size: 36px;
     margin-top:0px;
@@ -653,7 +653,7 @@ p {
 .price-text{
     margin:30px 0 20px;
     font-size:20px;
-    color: #181A1C;
+    color: #00519d;
     font-weight:normal;
 }
 /*
@@ -680,17 +680,17 @@ p {
 }
 .newsletter .button-sp:hover, .newsletter .button-sp:active {
     background-color:#FFF;
-    color:#181A1C;
+    color:#00519d;
 }
 
 /*
 3.7 Contact
 ********************************************************************/
  .contact {
-    background: #1a90fe;
+    background: #00519d;
 }
 .contact h1, .contact h2, .contact h3, .contact h4, .contact h5, .contact h6, .contact .section .title > p, .contact .social > li > a {
-    color: #181A1C;
+    color: #00519d;
 }
 .contact textarea, .contact input[type="text"], .contact input[type="email"] {
     padding: 10px;
@@ -753,7 +753,7 @@ p {
     color:#fff;
 }
 .contact .social li a:hover {
-    color:#181A1C;
+    color:#00519d;
 }
 .contact-form {
     background:#fff;
@@ -775,7 +775,7 @@ p {
     font-size:17px;
 }
 .message-btn:hover {
-    background-color:#1a90fe;
+    background-color:#00519d;
 }
 .contact-info {
     text-align:center;
@@ -786,16 +786,16 @@ p {
     width:60%;
     margin:0 auto;
     padding:15px;
-    color:#181A1C;
+    color:#00519d;
 }
 .black {
-    color:#181A1C;
+    color:#00519d;
 }
 /*
 3.8 Footer
 ********************************************************************/
  .footer {
-    background: #181A1C;
+    background: #00519d;
     text-align: center;
 }
 .footer > p {
@@ -804,7 +804,7 @@ p {
 }
 
 .footer a{
-    color:#1a90fe;
+    color:#00519d;
 }
 
 .footer a:hover, .footer a:focus{
@@ -823,7 +823,7 @@ p {
     right:20px;
 	border:1px solid #fff;
     display:none;
-    background: #1a90fe;
+    background: #00519d;
 }
 .scrollup > a {
     position:relative;
