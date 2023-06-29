@@ -29,7 +29,7 @@
 **********************************************************************/
  body {
     font-family:'Roboto', sans-serif;
-    color: #1a90fe;
+    color: #004d9a;
     line-height:1.2em;
     font-size:17px;
     line-height:20px;
@@ -39,7 +39,7 @@ a {
     text-decoration: none;
 }
 a:hover {
-    color: #1a90fe;
+    color: #004d9a;
     text-decoration:none;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -70,7 +70,7 @@ ul {
     padding-top:0;
 }
 .navbar-inner {
-    background: #181A1C;
+    background: #004d9a;
     border-radius:0;
     filter: none;
     border: none;
@@ -87,7 +87,7 @@ ul {
     margin:10px 3px;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
-    border: 1px solid #181A1C;
+    border: 1px solid #004d9a;
     box-shadow: none;
     font-size:15px;
     text-shadow: none;
@@ -95,9 +95,9 @@ ul {
     transition: border-color 1s ease;
 }
 .navbar .nav > li:hover> a, .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
-    border: 1px solid #1a90fe;
+    border: 1px solid #004d9a;
     color: #fff;
-    background-color: #181A1C;
+    background-color: #004d9a;
     transition: border-color 1s ease;
 }
 .nav-pills {
@@ -119,7 +119,7 @@ ul {
 }
 .navbar .btn-navbar:hover, .navbar .btn-navbar {
     border-radius:0;
-    background:#1a90fe;
+    background:#004d9a;
     color: #000;
 }
 /******
@@ -224,20 +224,20 @@ ul {
 }
 .button-sp, .button-sp:visited, .button-sp:focus {
     border:none;
-    background-color:#1a90fe;
+    background-color:#004d9a;
     color:#181A1C;
 }
 .button-sp:hover, .button-sp:active {
     background-color:#181A1C;
-    color:#1a90fe;
+    color:#004d9a;
 }
 .button-ps, .button-ps:visited, .button-ps:focus {
     border:none;
     background-color:#181A1C;
-    color:#1a90fe;
+    color:#004d9a;
 }
 .button-ps:hover, .button-ps:active {
-    background-color:#1a90fe;
+    background-color:#004d9a;
     color:#181A1C;
 }
 /*
@@ -288,7 +288,7 @@ ul {
     z-index:4;
 }
 .thumbnail h3 {
-    color: #1a90fe;
+    color: #004d9a;
     margin-top:10px;
     font-size:20px;
 }
@@ -334,7 +334,7 @@ ul {
     padding:0;
     width:32px;
     height:32px;
-    color: #1a90fe;
+    color: #004d9a;
 }
 .social li a:hover {
     color:#181A1C;
@@ -367,7 +367,7 @@ ul {
     background:#F2F2F2;
 }
 .primary-section .triangle {
-    border-top: 40px solid #1a90fe;
+    border-top: 40px solid #004d9a;
 }
 .primary-section .title {
     border-bottom: 1px solid #FFF;
@@ -391,7 +391,7 @@ ul {
 .third-section {
     padding-bottom: 70px;
     background: #181A1C url(../images/brand-bg.png) no-repeat center;
-    border-top:6px solid #1a90fe;
+    border-top:6px solid #004d9a;
 }
 .third-section .container {
     padding-top:20px;
@@ -399,7 +399,7 @@ ul {
 }
 .third-section .title {
     border-bottom: 1px solid #A1AAB7;
-    color: #1a90fe;
+    color: #004d9a;
 }
 .sub-section {
     margin-top:30px;
@@ -443,7 +443,7 @@ ul {
 .project-title {
     margin-top:15px;
     margin-bottom:15px;
-    border-bottom:1px solid #1a90fe;
+    border-bottom:1px solid #004d9a;
 }
 .project-title h3 {
     float:left;
@@ -452,11 +452,11 @@ ul {
     width:80%;
 }
 .project-title .close {
-    color: #1a90fe;
+    color: #004d9a;
     margin-top:10px;
 }
 .project-info span, .project-title h3 {
-    color:#1a90fe;
+    color:#004d9a;
 }
 .project-info {
     font-weight:100;
@@ -496,7 +496,7 @@ ul {
     color:#fff;
 }
 .team .thumbnail .mask {
-    background: #1a90fe;
+    background: #004d9a;
 }
 .team .thumbnail .mask h2 {
     margin-top:20%;
@@ -537,7 +537,7 @@ ul {
 .skills li .bar {
     height:40px;
     position:absolute;
-    background-color: #1a90fe;
+    background-color: #004d9a;
 }
 /*
 3.4 Clients
@@ -546,7 +546,7 @@ ul {
     border:1px solid white;
 }
 .client-slider img:hover {
-    background-color:#1a90fe;
+    background-color:#004d9a;
 }
 .client-nav {
     list-style:none;
@@ -560,7 +560,7 @@ ul {
 .client-nav li a {
     display:inherit;
     padding:5px;
-    background:#1a90fe;
+    background:#004d9a;
     border-radius:3px;
     width:20px;
     height:20px;
@@ -570,14 +570,14 @@ ul {
 }
 .testimonial p {
     color:#181A1C;
-    background:#1a90fe;
+    background:#004d9a;
     padding:15px;
     margin:0;
 }
 .testimonial .arrow {
     margin-left:10px;
     width:0;
-    border-top:10px solid #1a90fe;
+    border-top:10px solid #004d9a;
     border-left: 20px outset transparent;
     border-right: 20px outset transparent;
 }
@@ -629,7 +629,7 @@ ul {
     background-color:#181A1C;
     text-transform:uppercase;
     text-align: center;
-    color:#1a90fe;
+    color:#004d9a;
     padding:40px 0px;
     font-size: 36px;
     margin-top:0px;
@@ -692,7 +692,7 @@ ul {
 3.7 Contact
 ********************************************************************/
  .contact {
-    background: #1a90fe;
+    background: #004d9a;
 }
 .contact h1, .contact h2, .contact h3, .contact h4, .contact h5, .contact h6, .contact .section .title > p, .contact .social > li > a {
     color: #181A1C;
@@ -780,7 +780,7 @@ ul {
     font-size:17px;
 }
 .message-btn:hover {
-    background-color:#1a90fe;
+    background-color:#004d9a;
 }
 .contact-info {
     text-align:center;
@@ -809,7 +809,7 @@ ul {
 }
 
 .footer a{
-    color:#1a90fe;
+    color:#004d9a;
 }
 
 .footer a:hover, .footer a:focus{
@@ -828,7 +828,7 @@ ul {
     right:20px;
 	border:1px solid #fff;
     display:none;
-    background: #1a90fe;
+    background: #004d9a;
 }
 .scrollup > a {
     position:relative;
