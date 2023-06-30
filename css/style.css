@@ -181,7 +181,7 @@ ul {
     text-align:center;
     width: 0;
     height: 0;
-    border-top: 30px solid #181A1C;
+    border-top: 30px solid #004d9a;
     border-left: 585px outset transparent;
     border-right: 585px outset transparent;
     position: relative;
@@ -302,7 +302,7 @@ ul {
     left:0;
     width:100%;
     height:100%;
-    background:#181A1C;
+    background:#004d9a;
     position:absolute;
     -webkit-transition: all 0.2s ease-out;
     -moz-transition: all 0.2s ease-out;
@@ -502,7 +502,7 @@ ul {
     margin-top:20%;
 }
 .team .thumbnail .mask, .team .thumbnail .mask h3, .team .thumbnail .mask p, .team .thumbnail:hover h3, .team .thumbnail:hover .social a:hover {
-    color:#181A17;
+    color:#004d9a;;
 }
 .about-text {
     margin-top:30px;
