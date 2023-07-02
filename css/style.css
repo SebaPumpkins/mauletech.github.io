@@ -320,7 +320,7 @@ ul {
     list-style: none;
     float: none;
     position:relative;
-    margin:5px; auto;
+    margin:5px;
 }
 .social li {
     display:inline-block;
