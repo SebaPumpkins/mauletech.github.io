@@ -31,8 +31,10 @@
     font-family:'Roboto', sans-serif;
     color: #2e2e2e
     line-height:1.2em;
-    font-size:17px;
+    font-size:16px;
     line-height:20px;
+    font-weight: 100;
+
 }
 a {
     color:#2e2e2e;
@@ -81,7 +83,6 @@ p {
     margin:10px 3px;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
-    border: 1px solid #2869aa;
     box-shadow: none;
     font-size:15px;
     text-shadow: none;
@@ -158,9 +159,10 @@ p {
 }
 .left-align {
     text-align:left;
+    
 }
 .right-align {
-    text-align:left;
+    text-align:right;
 }
 .error {
     color: #CF0000;
