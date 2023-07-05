@@ -1329,7 +1329,8 @@
     }
     
     .da-slide .da-img {
-        display:none;
+        top:25px;
+        width:20%; 
     } 
     
     .da-slide .da-link {
